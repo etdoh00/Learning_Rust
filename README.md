@@ -16,18 +16,6 @@ Welcome to the Learning Rust repository! This repository is dedicated to helping
 
 - **Projects and Exercises:** Practice your Rust skills with hands-on projects and coding exercises designed to reinforce your learning.
 
-## Getting Started
-
-1. Install Rust on your system by following the instructions in the `setup.md` file.
-
-2. Explore the `basics` directory for introductory Rust concepts and examples.
-
-3. Progress to the `intermediate` directory to deepen your understanding of Rust's unique features.
-
-4. Experiment with the code examples and complete the exercises in the `projects` directory.
-
-5. Share your progress, questions, and projects by opening issues or discussions in the repository.
-
 ## Contributions
 
 Contributions to this learning repository are encouraged! If you have additional examples, exercises, or improvements, feel free to open pull requests. Let's collaborate and create a valuable resource for Rust learners.
